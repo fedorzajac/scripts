@@ -1,4 +1,4 @@
-# scripts
+# Scripts
 Simple scripts for file (mainly csv) manipulation
 
 ##ruby simple vlookup implementation
