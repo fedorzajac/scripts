@@ -1,9 +1,7 @@
 # scripts
 Simple scripts for file (mainly csv) manipulation
 
-# ruby simple vlookup implementation
-
-usage:
+##ruby simple vlookup implementation
 
 ```ruby
 temp = vlookupHash(file: file, key_separator: '', key_fields: ['Col1','Col2'], fields: ['Field1','Field2','field3'])
